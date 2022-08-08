@@ -1,0 +1,9 @@
+{
+  "id": "posts01",
+  "label": "Posts01",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}

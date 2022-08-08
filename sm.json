@@ -1,6 +1,6 @@
 {
   "_latest": "0.3.0",
-  "apiEndpoint": "https://spacetravelingvideo.prismic.io/api/v2",
+  "apiEndpoint": "https://desafio03-app.prismic.io/api/v2",
   "libraries": [
     "@/slices"
   ],
